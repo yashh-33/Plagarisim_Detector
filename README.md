@@ -20,4 +20,3 @@ This project is a machine learning-powered web app that detects potential plagia
 2. The text is vectorized using a pre-trained TF-IDF vectorizer.
 3. The ML model predicts the likelihood of plagiarism.
 4. Result is displayed instantly in the browser.
-
